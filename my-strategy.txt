@@ -2,7 +2,8 @@ Strategy to reach the goals
 - bulking
   * reach 52 kg
   * consistent
-    * buy a gym membership
+    * from no equipment
 - public speaking
 - learn cyber security
-  * directly learn about kali linux
+  * learn network fundamental
+- learn python
