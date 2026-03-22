@@ -1,7 +1,10 @@
 Strategy to reach the goals
 - bulking
-* reach 52 kg
-* consistent
+  * reach 52 kg
+  * consistent
+    * from no equipment
 - public speaking
 - learn other people
 - learn cyber security
+  * learn network fundamental
+- learn python
