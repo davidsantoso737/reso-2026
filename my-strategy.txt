@@ -4,7 +4,6 @@ Strategy to reach the goals
   * consistent
     * from no equipment
 - public speaking
-- learn other people
 - learn cyber security
   * learn network fundamental
 - learn python
