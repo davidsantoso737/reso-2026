@@ -4,3 +4,4 @@ Strategy to reach the goals
 * consistent
 - public speaking
 - learn other people
+- learn cyber security
