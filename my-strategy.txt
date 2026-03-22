@@ -1,7 +1,8 @@
 Strategy to reach the goals
 - bulking
-* reach 52 kg
-* consistent
+  * reach 52 kg
+  * consistent
+    * buy a gym membership
 - public speaking
-- learn other people
 - learn cyber security
+  * directly learn about kali linux
